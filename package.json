@@ -1,0 +1,25 @@
+{
+  "name": "segment-api",
+  "version": "4.13.1",
+  "description": "Segment API as module",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/padcom/segment-api.git"
+  },
+  "keywords": [
+    "segment",
+    "api"
+  ],
+  "author": "Matthias Hryniszak <padcom@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "email": "padcom@gmail.com",
+    "url": "https://github.com/padcom/segment-api/issues"
+  },
+  "funding": {
+    "type": "patreon",
+    "url": "https://www.patreon.com/padcom"
+  },
+  "homepage": "https://segment.com/docs/connections/sources/catalog/libraries/website/javascript/"
+}
